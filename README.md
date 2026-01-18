@@ -1,4 +1,5 @@
-## Hi there Vikas Kumar Gupta 👋
+## 💫Hi👋, I'm Vikas Kumar Gupta 
+## I'm Data Analyst and MIS Analyst
 
 # 💫 About Me:
 I’m Vikas Kumar Gupta, a Data Analyst with hands-on experience in data analysis, data cleaning, dashboard development, and reporting using Excel, SQL, Power BI, and Python. I have worked on sales analysis, KPI tracking, and data visualization projects using real-world datasets.
